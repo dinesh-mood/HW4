@@ -1,0 +1,6 @@
+I have worked on the following part:
+-> *BeginCommand
+-> *BeginAllCommand
+-> FULLCOPY
+-> *DeleteSpace
+-> GetLine
